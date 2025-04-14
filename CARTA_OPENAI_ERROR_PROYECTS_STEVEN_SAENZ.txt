@@ -1,0 +1,70 @@
+
+Steven Saenz  
+Galveston, Texas  
+April 14, 2025  
+
+To: OpenAI Technical and Development Team  
+Subject: Critical Structural Issue in OpenAI Projects – User Technical Report and Contribution Proposal  
+
+Dear OpenAI Team,
+
+My name is Steven Saenz, an early adopter and consistent user of OpenAI tools, including ChatGPT, Copilot, and most recently the Projects feature.
+
+While working on multiple real-life application projects (detailed below), I have discovered a recurring structural flaw in how Projects and extended ChatGPT sessions manage memory, file structure, and workflow integrity. This issue severely impacts the ability of non-technical users to reach viable deployment stages, despite having strong ideas and technical assistance from ChatGPT.
+
+---
+
+## 🔍 Problem Summary
+
+OpenAI Projects lack persistent memory of actual project file structure (user-local), leading to:
+
+1. Regeneration of code modules that already exist (e.g. CLI scripts recreated and overwritten multiple times).
+2. Creation of over-complex tooling (e.g. validators, launchers, bots) when users are asking for practical deployment solutions.
+3. Breaking of previously working features due to loss of awareness of prior implementations.
+4. A mismatch between what the user sees (index, folders, files) and what the AI assumes is true.
+
+---
+
+## 🛠️ Affected Real-World Projects
+
+I offer concrete evidence extracted from my usage across several real projects:
+
+- **AI Mezcladas:** FastAPI + Pinecone + React, multiple redundant embeddings setups and loss of module continuity.
+- **Bonet Clon TikTok para comunidad sorda:** Flutter + Laravel – AMEC Bot destroyed working CLI due to forgotten modules.
+- **Enjambre CLI Bot:** Designed to automate GPT interaction, overwritten with repetitive loops without resolving primary tasks.
+
+These failures led to days of wasted time rebuilding systems that had already been partially working, and ultimately damaged trust in Projects' ability to support real-time iteration.
+
+---
+
+## ✅ My Intentions and Proposal
+
+I am not seeking litigation or demanding compensation. My goal is clear:
+
+1. Finish my MVPs and launch products to support my family and community.
+2. Prevent other users from repeating these painful workflow losses.
+3. Help improve OpenAI's Projects with user-centered, outcome-based design.
+
+To this end, I respectfully request:
+
+- Technical review of my discovery (full report hash below).
+- Public or internal acknowledgement as the first user to report this pattern.
+- Possible inclusion in early testing of improved workflow tools.
+- Consideration for symbolic or functional compensation (e.g. API credits, account upgrades, public contributor badge, consulting request, etc.).
+
+---
+
+## 📎 Technical Report
+
+Title: `ERROR ESTRUCTURAL EN PROYECTOS OPENAI – RECLAMO TÉCNICO Y SOLICITUD DE MEJORA – STEVEN SAENZ`  
+Hash SHA256: `f8aa746d20cc1f3b6060ddcf3573ee9fe5503910c8636152ae5faa0ae5848c5a`  
+Report file is attached to this message.
+
+---
+
+Thank you for your work. I admire what OpenAI has built, and hope to contribute to its future. I am open to collaboration and constructive response at any time.
+
+Sincerely,  
+**Steven Saenz**  
+Independent Developer / Community Project Lead  
+Galveston, Texas  
